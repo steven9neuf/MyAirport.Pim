@@ -1,0 +1,12 @@
+C:\Users\rahlu\Documents\ECE\ING5\NET\TP\Full\Net\MyAirport.Pim\PIM\FormPim\bin\Debug\FormPim.exe.config
+C:\Users\rahlu\Documents\ECE\ING5\NET\TP\Full\Net\MyAirport.Pim\PIM\FormPim\bin\Debug\FormPim.exe
+C:\Users\rahlu\Documents\ECE\ING5\NET\TP\Full\Net\MyAirport.Pim\PIM\FormPim\bin\Debug\FormPim.pdb
+C:\Users\rahlu\Documents\ECE\ING5\NET\TP\Full\Net\MyAirport.Pim\PIM\FormPim\bin\Debug\ClientPim.dll
+C:\Users\rahlu\Documents\ECE\ING5\NET\TP\Full\Net\MyAirport.Pim\PIM\FormPim\bin\Debug\ClientPim.pdb
+C:\Users\rahlu\Documents\ECE\ING5\NET\TP\Full\Net\MyAirport.Pim\PIM\FormPim\obj\Debug\Pim.csprojResolveAssemblyReference.cache
+C:\Users\rahlu\Documents\ECE\ING5\NET\TP\Full\Net\MyAirport.Pim\PIM\FormPim\obj\Debug\FormPim.PIM.resources
+C:\Users\rahlu\Documents\ECE\ING5\NET\TP\Full\Net\MyAirport.Pim\PIM\FormPim\obj\Debug\FormPim.Properties.Resources.resources
+C:\Users\rahlu\Documents\ECE\ING5\NET\TP\Full\Net\MyAirport.Pim\PIM\FormPim\obj\Debug\Pim.csproj.GenerateResource.Cache
+C:\Users\rahlu\Documents\ECE\ING5\NET\TP\Full\Net\MyAirport.Pim\PIM\FormPim\obj\Debug\Pim.csproj.CoreCompileInputs.cache
+C:\Users\rahlu\Documents\ECE\ING5\NET\TP\Full\Net\MyAirport.Pim\PIM\FormPim\obj\Debug\FormPim.exe
+C:\Users\rahlu\Documents\ECE\ING5\NET\TP\Full\Net\MyAirport.Pim\PIM\FormPim\obj\Debug\FormPim.pdb
